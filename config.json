@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "images": {
+    "sapphireGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/sapphireGoogleApple.webp",
+    "platinumGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/platinumGoogleApple.webp",
+    "platinumVisaGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/platinumVisaGoogleApple.webp",
+    "platinumBlackGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/platinumBlackGoogleApple.webp",
+    "masterCardWhite": "https://res.cloudinary.com/dbbfdxxud/image/upload/masterCardWhite.webp",
+    "visaSvg": "https://res.cloudinary.com/dbbfdxxud/image/upload/visa.svg"
+  },
+  "announcement": {
+    "enabled": true,
+    "id": "platinum-launch-2026-06",
+    "title": "Important Notice",
+    "body": "Our new Platinum Card is now live — improved support for petrol stations, Uber, and more merchants worldwide. 🚀",
+    "emoji": "💳",
+    "dismissible": true
+  }
+}
