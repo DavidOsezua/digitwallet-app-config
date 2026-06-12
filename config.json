@@ -9,7 +9,7 @@
     "visaSvg": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1781288351/visa.svg"
   },
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "id": "platinum-reaunch-2026-06",
     "title": "Important Notice",
     "body": "Our new Platinum Card is now live — improved support for petrol stations, Uber, and more merchants worldwide. 🚀",
