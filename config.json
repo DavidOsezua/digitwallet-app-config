@@ -6,7 +6,7 @@
     "platinumVisaGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1781097696/masterCard.png",
     "platinumBlackGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1781113145/platinumBlackGoogleApple.png",
     "masterCardWhite": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1781097696/masterCard.png",
-    "visaSvg": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1781302028/visa.svg"
+    "visaSvg": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1781302028/visa.svg",
   },
   "announcement": {
     "enabled": false,
