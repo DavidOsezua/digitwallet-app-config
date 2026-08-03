@@ -1,12 +1,12 @@
 {
   "version": 1,
   "images": {
-    "sapphireGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1781097696/masterCard.png",
-    "platinumGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1781097696/masterCard.png",
-    "platinumVisaGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1781097696/masterCard.png",
+    "sapphireGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1785791564/sapphireGoogleApple.webp",
+    "platinumGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1785791375/platinumGoogleApple.webp",
+    "platinumVisaGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1785791429/platinumVisaGoogleApple.webp",
     "platinumBlackGoogleApple": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1781113145/platinumBlackGoogleApple.png",
     "masterCardWhite": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1785791051/masterCardWhite.webp",
-    "visaSvg": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1781302028/visa.svg",
+    "visaSvg": "https://res.cloudinary.com/dbbfdxxud/image/upload/v1785791246/visa.svg",
   },
   "announcement": {
     "enabled": false,
